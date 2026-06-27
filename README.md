@@ -21,7 +21,9 @@ Technologies Used
 - ECG Sensor
 - Pulse Sensor
 
+
 Block Diagram
+
 <img width="301" height="155" alt="image" src="https://github.com/user-attachments/assets/87be5dd0-e6fb-4314-bf21-6efbf360e58a" />
 
 Raspberry Pi Setup
@@ -34,7 +36,9 @@ Output
 <img width="580" height="343" alt="image" src="https://github.com/user-attachments/assets/ca108ffe-87e7-4f37-a7ce-b5b2089ce32c" />
 
 Project Report
+
 https://www.image2url.com/r2/default/documents/1782564675893-1894c89c-bcdc-4f6f-97ef-d3b73e4f7478.pdf
 
 Author
+
 Divya P
