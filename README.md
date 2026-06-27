@@ -40,7 +40,8 @@ Circuit Diagram 1
 
 Output
 
-<img width="580" height="343" alt="image" src="https://github.com/user-attachments/assets/ca108ffe-87e7-4f37-a7ce-b5b2089ce32c" />
+<img width="848" height="480" alt="image" src="https://github.com/user-attachments/assets/f0d7c09e-a2f8-4dab-b1ec-9153cf32623d" />
+
 
 Project Report
 
