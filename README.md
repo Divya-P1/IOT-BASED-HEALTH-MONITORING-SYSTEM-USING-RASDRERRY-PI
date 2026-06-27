@@ -24,15 +24,22 @@ Technologies Used
 
 Block Diagram
 
+
 <img width="301" height="155" alt="image" src="https://github.com/user-attachments/assets/87be5dd0-e6fb-4314-bf21-6efbf360e58a" />
 
+
 Raspberry Pi Setup
+
 <img width="908" height="615" alt="image" src="https://github.com/user-attachments/assets/07cd2c8e-cec8-44be-8b51-4cc31f970284" />
 
+
 Circuit Diagram 1
+
 <img width="278" height="161" alt="image" src="https://github.com/user-attachments/assets/093eb9b8-a1e1-4670-958a-35c5997bf692" />
 
+
 Output
+
 <img width="580" height="343" alt="image" src="https://github.com/user-attachments/assets/ca108ffe-87e7-4f37-a7ce-b5b2089ce32c" />
 
 Project Report
